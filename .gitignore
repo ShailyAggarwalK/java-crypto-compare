@@ -2,3 +2,6 @@
 gradle/
 out/
 
+gradlew
+build
+.gradle/
